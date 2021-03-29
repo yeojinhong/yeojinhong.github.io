@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "c programming"
+title                    : "Medical study"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Y.J.Hong"
-description              : "An amazing website for C programming"
+description              : "An amazing website for medical studying"
 url                      : "https://yeojinhong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yeojinhong/yeojinhong.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
