@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "yeojinhong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "a proud student of HAFS"
+  avatar           : "/assets/images/주디.jpg"
+  bio              : "medical professional"
   location         : "Seoul, Korea"
   email            : "myjinh@gmail.com"
   links:
